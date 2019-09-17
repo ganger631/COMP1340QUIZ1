@@ -1,0 +1,2 @@
+1.Yes, it is mandatory to type in git status for everytime you want to initaiate git. Git status tells you important information pertain to working directory and staging area.
+Because you are in nodejs, which is not for git. Typing node first allows you to write javascript codes. You can type .exit to end nodejs

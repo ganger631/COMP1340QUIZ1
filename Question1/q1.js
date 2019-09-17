@@ -1,0 +1,1 @@
+//Github is a place where everyone can share their codes and contribute to open source PromiseRejectionEvent, where as git is used to upload code from internal system to github, with revisions.
